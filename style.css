@@ -1,0 +1,58 @@
+/* Fixed */
+.green {
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    outline: 1px solid yellow;
+    position: fixed;
+    left: 500px;
+    top: 0px;
+   
+}
+
+/* Absolute */
+.box {
+    height: 100px;
+    width: 100px;
+    outline: 3px solid purple;
+    margin: 10px;
+    position: relative;
+}
+
+.big {
+    height: 300px;
+    width: 300px;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
+
+.red {
+    background-color: red;
+    position: absolute;
+    top: 20px;
+    left: 90px;
+}
+
+/* Relative */
+.biggest {
+width: 200px;
+height: 400px;
+background-color: orange;
+margin: 0 auto;
+}
+
+.box2 {
+    height: 150px;
+    width: 150px;
+    outline: 2px solid purple;
+    /* margin: 15px; */
+    position: relative;
+    left: 30%;
+    background-color: aqua;
+}
+
+
+
+   
